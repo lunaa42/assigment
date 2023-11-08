@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932680041979",
+    "project_id": "assigment-c4b42",
+    "storage_bucket": "assigment-c4b42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932680041979:android:cf2e213db3bd7ef76eb75e",
+        "android_client_info": {
+          "package_name": "com.example.assigment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7O8fjVZH7Rif5FdTRAaX9l4y-mrZ0S-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
